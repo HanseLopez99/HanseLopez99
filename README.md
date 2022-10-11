@@ -1,4 +1,3 @@
-
 # Hi, I’m @HanseLopez99
 
 I am studying Computer Science Engineering at Universidad del Valle de Guatemala
