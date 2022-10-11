@@ -25,3 +25,20 @@ I am studying Computer Science Engineering at Universidad del Valle de Guatemala
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLServer-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
 </p>
+
+# Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanselopez99/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/HanseLopez99">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hanselopez99/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/hanselopez99/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+</p>
