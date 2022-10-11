@@ -49,4 +49,7 @@ I am currently a computer science engineering student at Universidad del Valle d
   <a href="https://www.facebook.com/hanselopez99/">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://www.twitch.tv/hanselopez99">
+    <img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" />
+  </a>
 </p>
