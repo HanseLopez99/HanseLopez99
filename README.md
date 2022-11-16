@@ -68,7 +68,8 @@ I am currently a computer science engineering student at Universidad del Valle d
   <br/>
   <br/>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanselopez99&theme=dark" />
+  <!-- Count since january 2019 -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanselopez99&theme=dark&count_private=true" />
 
   <br/>
   <br/>
