@@ -55,3 +55,21 @@ I am currently a computer science engineering student at Universidad del Valle d
     <img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" />
   </a>
 </p>
+
+# My GitHub Stats
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanselopez99&theme=dark" />
+
+  <br/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanselopez99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
+
+  <br/>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hanselopez99?cardType=level-alternate&theme=dark" />
+  </a>
+</p>
+</div>
