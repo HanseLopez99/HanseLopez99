@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanselopez99&label=Profile%20views&color=0e75b6&style=flat" alt="hanselopez99" /> </p>
 
-I am currently a computer science engineering student at Universidad del Valle de Guatemala (UVG). I have created and designed web applications such as VOD streaming platforms for LG, Tizen (Samsung) and Vizio smart TVs using ReactJS. I also have experience developing Rest API web services with nodeJS and express, to later implement them in whatsapp and facebook chatbots to meet the needs of different companies. I have worked on some projects using the PERN stack (PostgresSQL, Express, ReactJs and NodeJS) and using agile software development methodologies. I have taken some preparation courses for CISCO certifications at KINAL. Something interesting that I have done is create some 3D and 2D videogames at my university using Unity and some Android apps using kotlin.
+I am currently a computer science engineering student at Universidad del Valle de Guatemala (UVG). I have created and designed web applications such as VOD streaming platforms for LG, Tizen (Samsung) and Vizio smart TVs using ReactJS. I also have experience developing Rest API web services with nodeJS and express, to later implement them in whatsapp and facebook chatbots to meet the needs of different companies. I have worked on some projects using the PERN stack (PostgresSQL, Express, ReactJs and NodeJS) and using agile software development methodologies. Something interesting that I have done is create some 3D and 2D videogames at my university using Unity and some Android apps using kotlin.
 
 # Programming Languages and Technologies
 
