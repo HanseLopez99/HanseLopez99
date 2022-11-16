@@ -59,17 +59,17 @@ I am currently a computer science engineering student at Universidad del Valle d
 # My GitHub Stats
 
 <div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hanselopez99?cardType=level-alternate&theme=dark" />
+
+  <br/>
+  <br/>
+
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanselopez99&theme=dark" />
 
+  <br/>
   <br/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanselopez99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 
   <br/>
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hanselopez99?cardType=level-alternate&theme=dark" />
-  </a>
-</p>
 </div>
