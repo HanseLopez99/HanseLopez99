@@ -2,7 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanselopez99&label=Profile%20views&color=0e75b6&style=flat" alt="hanselopez99" /> </p>
 
-I am currently a computer science engineering student at Universidad del Valle de Guatemala (UVG). I have created and designed web applications such as VOD streaming platforms for LG, Tizen (Samsung) and Vizio smart TVs using ReactJS. I also have experience developing Rest API web services with nodeJS and express, to later implement them in whatsapp and facebook chatbots to meet the needs of different companies. I have worked on some projects using the PERN stack (PostgresSQL, Express, ReactJs and NodeJS) and using agile software development methodologies. Something interesting that I have done is create some 3D and 2D videogames at my university using Unity and some Android apps using kotlin.
+I am a highly skilled Senior Developer with extensive experience in crafting
+software solutions that cater to complex business needs. By leveraging a robust
+set of technologies including ReactJS, Node.js, and Kubernetes, I've delivered
+scalable and efficient systems. My work on projects such as supporting Walmart's
+Ecommerce and developing, developing apps for SmartTV on Wot Dev and
+developing Android apps for Ericsson using React Native highlights my ability to
+integrate cutting-edge tools and techniques to enhance performance, reliability,
+and user experience.
 
 # Programming Languages and Technologies
 
